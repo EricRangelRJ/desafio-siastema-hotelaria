@@ -1,0 +1,15 @@
+
+—
+java:S62042"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8 ğæ— 2
+—
+java:S6204R"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8§ğæ— 2
+—
+java:S6204]"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8©ğæ— 2
+˜
+java:S6204–"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8´ğæ— 2
+
+java:S6204”"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(÷¹­æúÿÿÿÿ8¶ğæ— 2
+s
+java:S1068%"2Remove this unused "customerClient" private field.(•›Ä–şÿÿÿÿJ$4ae06463-7c6b-446b-83ef-052a3a678662
+u
+java:S1144m"4Remove this unused private "compareHotelsBy" method.(ÕÅû½úÿÿÿÿJ$e1a2c58e-9a39-4bfa-84c0-855da08e46e7

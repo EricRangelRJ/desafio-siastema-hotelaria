@@ -1,0 +1,7 @@
+
+Â
+java:S11924"…Define a constant instead of duplicating this literal "INSERT INTO public.room_availability (available,date,room_id) VALUES" 4 times.(‹Ïã‹J$9a66f51c-7dd1-47ee-9b65-fd1b7ed339b0
+À
+java:S1192@"ƒDefine a constant instead of duplicating this literal " (true,'2024-01-14','545ed316-b9f1-4779-b685-a81ae10670f6'::uuid)," 4 times.(ò§İèJ$3c5e0370-2399-4895-be5c-1008eedf2641
+À
+java:S1192K"ƒDefine a constant instead of duplicating this literal " (true,'2024-01-14','100ed316-b9f1-4779-b685-a81ae10670f5'::uuid)," 5 times.(ÊÖ±J$edb1149c-64b1-45ee-bbeb-b05156bab17d

@@ -1,0 +1,4 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(Þ“Ÿ˜þÿÿÿÿ8ùÀé– 2J$3ead9cbe-9882-4f70-92a8-693207a4f565
+|
+java:S1128"@Remove this unused import 'org.apache.logging.log4j.LogManager'.(Ë”ËéJ$af1c79b0-a7da-4ce2-a55e-a7490cce8f68
