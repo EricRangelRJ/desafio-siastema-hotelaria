@@ -181,7 +181,7 @@ volumes:
 
 ## 😎 Collection para testes
 - Logo após estar tudo rodando importar essas Collections no Postman. São as 3 collectios necessárias para o teste, estas já estão pré-preenchidas com os dados dos campos.
-- [nt-hotel.postman_collection.zip](https://github.com/EricRangelRJ/desafioNTConsult/blob/develop/_docker-compose_collection/nt-hotel.postman_collection.zip?raw=true)
+- [nt-hotel.postman_collection.zip](https://github.com/EricRangelRJ/desafio-sistema-hotelaria-springBoot/blob/main/desafio_hotelaria.postman_collection.zip?raw=true)
 
 # 🛠️ Testes de Integração
 
