@@ -85,7 +85,7 @@ public class HotelServiceImpl implements HotelService {
     @Transactional(readOnly = true)
     public List<HotelResponseDto> searchHotels(String location, String checkIn, String checkOut, Integer rooms, Integer guests) {
         String locationPattern = nonNull(location) ? "%" + location.toLowerCase() + "%" : "%%";
-        List<Hotel> hotels = hotelRepository.findHotels(locationPattern, parse(checkIn), parse(checkOut), rooms, guests);
+        List<Hotel> hotels = hotelRepository.findHotels(locationPattern, parse(checkIn), parse(checkOut), guests, rooms);
         verificarRetornoConsulta(hotels);
         logger.info("::: Buscando Hoteis :::");
         return hotels.stream()
