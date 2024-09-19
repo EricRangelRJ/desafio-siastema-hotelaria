@@ -8,7 +8,7 @@
 
 ## 🌐️ Meus dados:
 
-- **Eric Leonardo S. Rangel**
+- Eric Leonardo S. Rangel
     - Desenvolvedor backend - Java Pleno.
     - [Acesse meu LinkedIn](https://linkedin.com/in/ericrangelrj)
     - Email: ericlsrangel@gmail.com
@@ -24,7 +24,7 @@
 
 
 ## 🚀 Sobre a Aplicação
-- **Desenvolvida utilizando boas práticas de “Clean code”, com arquitetura em camadas (MVC) **
+- Desenvolvida utilizando boas práticas de "Clean Code", com arquitetura em camadas (MVC)
 
 
 ## 💥 Tecnologias Utilizadas
@@ -80,13 +80,13 @@
 
 
 ## 📋 Mensageria (EDA)
-- Utilizada para garantir a comunicação assíncrona, tolerância a falhas além de permitir o desacoplamento entre os micro serviços. Foi utilizada para preparar o envio de emails de confirmação de reservas bem como notificar o cadastro de novos hotéis para qualquer outro microserviço. O projeto desenvolvido trabalha em conjunto com o cadastro de avaliações.   
+- Utilizada para garantir a comunicação assíncrona, tolerância a falhas além de permitir o desacoplamento entre os microserviços. Foi utilizada para preparar o envio de emails de confirmação de reservas bem como notificar o cadastro de novos hotéis para qualquer outro microserviço. O projeto desenvolvido trabalha em conjunto com o cadastro de avaliações.   
 
 ![img_3.png](_img/img_3.png)
 
 
 ## 📋 Log Centralizado
-- Utilizado para facilitar o monitoramento de todos os micrserviços que estão em execução, atende ao requisito que abrange logs e métricas em tempo real.
+- Utilizado para facilitar o monitoramento de todos os microserviços que estão em execução, atende ao requisito que abrange logs e métricas em tempo real.
 
 ![img_4.png](_img/img_4.png)
 
@@ -185,12 +185,12 @@ volumes:
 
 # 🛠️ Testes de Integração
 
-- Devido ao tempo reduzido para entrega só foram realizados testes de Integração nos endpoints do Controlador do projeto customer-managemente como exemplo para aplicação nos demais projetos.
+- Devido ao tempo reduzido para entrega só foram realizados testes de Integração nos endpoints do Controlador do projeto customer-management como exemplo para aplicação nos demais projetos.
 
 # 💻 Melhorias
 - Configuração de um servidor de email para consumo no Kafka e disparo de mensagens;
 - Cobertura integral de testes de integração e unitários;
-- Adicionar aquitetura Clean para divisão completa do domínio da aplicação do restante do código
+- Adicionar arquitetura Clean para divisão completa do domínio da aplicação do restante do código
 - Utilizar um serviço de mensagens para push via WhatsApp dos clientes que fizeram reservas no hotel
 - Adicionar autenticação JWT entre outras....
 
